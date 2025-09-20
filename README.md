@@ -1,6 +1,6 @@
 # 🌟 Welcome to my GitHub!
 
-Summer Trainee at Nokia, an undergraduate student at Poznan University of Technology, majoring in Telecommunications, member of Spectrum Science Club. My interests include RF engineering, mobile networks, and antenna design. Here, you will find many of my projects showcasing my skills and progress in these fields.
+Working student at Nokia, an undergraduate student at Poznan University of Technology, majoring in Telecommunications, member of Spectrum Science Club. My interests include RF engineering, mobile networks, and antenna design. Here, you will find many of my projects showcasing my skills and progress in these fields.
 
 ---
 
