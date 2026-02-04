@@ -6,7 +6,7 @@ Working student at Nokia, an undergraduate student at Poznan University of Techn
 
 ## Known technologies and tools
 
-- 2G/UMTS/LTE/NR 
+- GSM/UMTS/LTE/NR 
 - Antenna design and EM fields simulations (FEKO, CST, QuickWave)
 - Wave propagation and radio networks simulations (Altair Proman, Altair Wallman)
 - Design and compute software (Matlab, Simulink, LabView, Multisim)
