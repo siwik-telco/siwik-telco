@@ -19,8 +19,7 @@ Working student at Nokia, Bachelor of Science in Telecommunications Enginnering,
 ### 📡 Antenna Design Simulation and Constructions
 - Design of patch antennas [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
 - Log-periodic antennas [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
-- Currently working on a beam steering system for communication with the ISS [ISS Project](https://github.com/Merituum/ISSproject)<br>
-Repository is hidden since paper about this project is about to be published.
+
 
 ### 📶 MNSM - BTS Map with Azimuth Displaying
 Python application that displays a map with mobile stations in Poland along with the azimuths of their antennas - [MNSM - link](https://github.com/Merituum/mnsm_BTS_map)  
