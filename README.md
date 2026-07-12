@@ -5,7 +5,7 @@ Working student at Nokia, Bachelor of Science in Telecommunications Enginnering,
 ---
 ## Scientific papers
 
-- 3D Modelling of the Human Head for Phantom Preparation and EM Simulations - Antoni Antosik, Julia Piszczorowicz, Julia Piekarska, <b>Bartosz Siwik</b>, Krzysztof Cichoń  ->[IEEE](https://ieeexplore.ieee.org/abstract/document/11578002/)
+- 3D Modelling of the Human Head for Phantom Preparation and EM Simulations - Antoni Antosik, Julia Piszczorowicz, Julia Piekarska, <b>Bartosz Siwik</b>, Krzysztof Cichoń  ->[IEEE](https://ieeexplore.ieee.org/abstract/document/11578002/), presented at Microwave & Radar Week '26, Cracow
 
 ## Known technologies and tools
 
