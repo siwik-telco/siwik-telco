@@ -3,9 +3,7 @@
 Working student at Nokia, Bachelor of Science in Telecommunications Enginnering, Master student at Poznan University of Technology, still majoring in Telecommunications, member of Spectrum Science Club. My interests include RF engineering, mobile networks, and antenna design. Here, you will find many of my projects showcasing my skills and progress in these fields.
 
 ---
-## Scientific papers
 
-- 3D Modelling of the Human Head for Phantom Preparation and EM Simulations - Antoni Antosik, Julia Piszczorowicz, Julia Piekarska, <b>Bartosz Siwik</b>, Krzysztof Cichoń  ->[IEEE](https://ieeexplore.ieee.org/abstract/document/11578002/), presented at Microwave & Radar Week '26, Cracow
 
 ## Known technologies and tools
 
@@ -16,6 +14,10 @@ Working student at Nokia, Bachelor of Science in Telecommunications Enginnering,
 - Network engineering (Layer 2 and 3) - Cisco, Huawei, Mikrotik
 - PHP, Python, C++, SQL, HTML, CSS, Javascript
 - Server administrating (Linux - Samba, Windows - AD)
+
+## Scientific papers
+
+- 3D Modelling of the Human Head for Phantom Preparation and EM Simulations - Antoni Antosik, Julia Piszczorowicz, Julia Piekarska, <b>Bartosz Siwik</b>, Krzysztof Cichoń  ->[IEEE](https://ieeexplore.ieee.org/abstract/document/11578002/), presented at Microwave & Radar Week '26, Cracow
 
 ## 📂 Main Projects
 
