@@ -38,6 +38,10 @@ Python application that displays a map with mobile stations in Poland along with
 Simulation of a 4G network in my hometown, Łomża (T-Mobile only), with real-life results comparison - [NetWorks - Lomza](https://github.com/Merituum/FekoLomza) <br>
 Currently working on a 5G simulation in the center of Warsaw - [WWA_5G](https://github.com/Merituum/wwa_cen_5G)
 
+### UE ATTACH SIMULATOR WITH PROPORTIONAL FAIRNESSS
+A discrete-event simulation of a single-cell mobile network downlink, implementing the Proportional Fairness (PF) resource scheduling algorithm. Built with Python using the event-scheduling (M2) simulation method.
+[LTE_PF_SIMULATOR](https://github.com/siwik-telco/UEattacchSim)
+
 ---
 
 ## 📫 Contact
