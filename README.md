@@ -21,6 +21,13 @@ Working student at Nokia, Bachelor of Science in Telecommunications Enginnering,
 
 ## 📂 Main Projects
 
+### OSASFOM - Open Source Antenna Soler FOr Macintosh
+- Cad with FDTD simulator, work still in progress - at this moment it's possible to model simple dipole and patch models and performing simulation with use of FDTD method. Farfield 1d and 3D results are presented along with Return Loss.
+- Uses multithreading, work on x86 and ARM architecture
+- Coded in Swift, with help of Claude AI
+- Link: [OSASFOM](https://github.com/siwik-telco/osasfom_CAD)
+
+
 ### 📡 Antenna Design Simulation and Constructions
 - Design of patch antennas [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
 - Log-periodic antennas [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
