@@ -21,7 +21,7 @@ Working student at Nokia, Bachelor of Science in Telecommunications Enginnering,
 
 ## 📂 Main Projects
 
-### OSASFOM - Open Source Antenna Soler FOr Macintosh
+### OSASFOM - Open Source Antenna Solver FOr Macintosh
 - Cad with FDTD simulator, work still in progress - at this moment it's possible to model simple dipole and patch models and performing simulation with use of FDTD method. Farfield 1d and 3D results are presented along with Return Loss.
 - Uses multithreading, work on x86 and ARM architecture
 - Coded in Swift, with help of Claude AI
